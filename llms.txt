@@ -1,0 +1,9 @@
+# Basilic, restaurant, lounge et grill à Dakar
+
+> Restaurant de plage, grill et lounge sur la Corniche des Almadies, à Dakar (Sénégal). Grillades et rôtisserie au feu de bois, cocktails maison, happy hour du mardi au dimanche de 18h à 19h, soirées DJ et privatisation. Réservation : +221 77 590 23 02.
+
+## Pages
+- [La carte](http://localhost:4321/carte) : plats, garnitures, desserts et prix en F CFA
+- [Le bar](http://localhost:4321/bar) : cocktails, mocktails, vins, bières, chichas et happy hour
+- [Évènements](http://localhost:4321/evenements) : soirées DJ, afterworks, privatisation
+- [Réservation & contact](http://localhost:4321/reservation) : adresse, itinéraire, horaires, FAQ

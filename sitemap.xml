@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://localhost:4321/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:4321/carte</loc>
+    <lastmod>2026-10-17</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:4321/bar</loc>
+    <lastmod>2026-10-17</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:4321/evenements</loc>
+  </url>
+  <url>
+    <loc>http://localhost:4321/reservation</loc>
+  </url>
+</urlset>
